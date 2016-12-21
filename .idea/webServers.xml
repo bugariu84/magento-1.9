@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cda2df27-dec5-4cb5-8dcb-1eb399a7ee30" name="magento_19" url="http://phpdev">
+        <fileTransfer host="phpdev" port="22" privateKey="D:\work\key\phpdev.ppk" rootFolder="/data/web/bbugariu" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

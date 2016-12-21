@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Intuitext_Demo>
+            <version>0.0.1</version>
+        </Intuitext_Demo>
+    </modules>
+</config>
